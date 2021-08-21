@@ -5,7 +5,6 @@ This repo tests whether both the `messageCreate` and `threadCreate` event are em
 When I ran this and created a thread on no message, the following was outputted:
 
 ```
-ready
 Message created with content -- some thread
 Thread created with name -- some thread
 Message created with content -- with some message
